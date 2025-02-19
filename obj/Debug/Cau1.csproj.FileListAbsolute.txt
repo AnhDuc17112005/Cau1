@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\Cau1.exe.config
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\Cau1.exe
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\Cau1.pdb
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\Cau1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.csproj.Up2Date
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.exe
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.pdb
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.Migrations.Initial.resources
+C:\Users\ADMIN\source\repos\Cau1\obj\Debug\Cau1.Form1.resources
